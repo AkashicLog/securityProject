@@ -16,5 +16,6 @@
     <orderEntry type="library" name="fastjson-1.2.70-javadoc" level="project" />
     <orderEntry type="library" name="fastjson-1.2.70-sources" level="project" />
     <orderEntry type="library" name="fastjson-1.2.70" level="project" />
+    <orderEntry type="library" name="gson-2.8.6" level="project" />
   </component>
 </module>
