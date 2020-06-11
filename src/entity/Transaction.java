@@ -1,5 +1,10 @@
 package entity;
 
+import util.tool;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Transaction {
     //前次交易ID
     private String prevId;
@@ -16,16 +21,28 @@ public class Transaction {
     //交易接收方的钱包公钥hash值
     private String publicHashKey;
 
+    public ArrayList<TransactionInput> inputs = new ArrayList<>();
+    public ArrayList<TransactionOutput> outputs = new ArrayList<>();
 
-    public Transaction() {
-        super();
-    }
+    private static int sequence = 0;
 
-    public Transaction(String id, String sender, String recipient, int amount) {
+    public Transaction(String id, String sender, String recipient, int amount,ArrayList<TransactionInput> inputs) {
         super();
         this.id = id;
         this.sender = sender;
         this.recipient = recipient;
         this.amount = amount;
+        this.inputs = inputs;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    private String calculateHash(){
+        sequence++;
+        StringBuilder builder = new StringBuilder(sender);
+        builder.append(recipient).append(amount).append(sequence);
+        return tool.SHA256(builder.toString());
     }
 }
