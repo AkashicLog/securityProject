@@ -2,12 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9260e5b1-a15a-4c94-8a9d-d53512cb95df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/MerkleTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_10_javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_10_sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_10_test_sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_10_tests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_70.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_70_javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fastjson_1_2_70_sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.10-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.10-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.10-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.10-tests.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fastjson-1.2.70-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fastjson-1.2.70-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/fastjson-1.2.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/BlockChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/TXInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/TXOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/UtfoStruts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/UtxoInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/BlockServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ProofOfWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TransactionsPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/WalletStruts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ECCCoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/HexUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ObjectUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/SHA256.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/SignUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/WalletUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/mathUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/securityProject/entity/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/securityProject/entity/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/TransactionInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/TransactionOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/user/Wallet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/securityProject/user/Wallet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/ECC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/ECDSAsample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/securityProject/util/tool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securityProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/securityProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/client.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Block.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/TransactionInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/TransactionOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/Wallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/Base58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Base58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/Base64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Base64Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/ECC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/ECDSAsample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/MD5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/MD5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +64,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution />
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,19 +84,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1chNHuLXgyrKbJXsW7yzLm82Iwt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/fastjson-1.2.70.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5735632" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
@@ -54,7 +108,33 @@
       <recent name="util" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ProofOfWork">
+    <configuration name="ProofOfWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="service.ProofOfWork" />
+      <module name="securityProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.SignUtils" />
+      <module name="securityProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="client" />
       <module name="securityProject" />
@@ -64,9 +144,23 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProofOfWork" />
+        <item itemvalue="Application.SignUtils" />
         <item itemvalue="Application.client" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -82,6 +176,7 @@
       <workItem from="1591004799763" duration="21000" />
       <workItem from="1591347271157" duration="10827000" />
       <workItem from="1591837852391" duration="5710000" />
+      <workItem from="1591853020571" duration="13402000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1591357992649</created>
@@ -101,9 +196,10 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
@@ -116,45 +212,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="563" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590977438157" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591864564081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591864564081" />
     <state x="374" y="20" key="CommitChangelistDialog2" timestamp="1591358131474">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="374" y="20" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591358131474" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1591353541758">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1591866349135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591353541758" />
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1591357748108">
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591866349135" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591868902034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591357748108" />
-    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1591357748108">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591868902034" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591868902034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591357748108" />
-    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1591357748108">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591868902034" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591868902033">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591357748108" />
-    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1591357748108">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591868902033" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591868902034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591357748108" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591868902034" />
     <state x="349" y="150" key="IDE.errors.dialog" timestamp="1591358107360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="150" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1591358107360" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1591353561803">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1591866353332">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591353561803" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591866353332" />
     <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1591358143203">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591358143203" />
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1591004808448">
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1591853022451">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591004808448" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591853022451" />
   </component>
 </project>
