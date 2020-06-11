@@ -12,7 +12,7 @@ import java.util.List;
 public class StringUtil {
     public static String applyMID160(String input){
         try {
-            MessageDigest digest = MessageDigest.getInstance("RIPEMD-160");
+            MessageDigest digest = MessageDigest.getInstance("RipeMD160");
             byte[] hash = digest.digest(input.getBytes(StandardCharsets.UTF_8));
             StringBuilder hexString = new StringBuilder();
             for (byte b : hash) {

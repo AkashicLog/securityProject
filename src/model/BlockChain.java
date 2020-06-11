@@ -21,6 +21,7 @@ public class BlockChain {
         walletA = new Wallet();
         walletB = new Wallet();
         Wallet coinbase = new Wallet();
+        System.out.println(walletA.getAddress());
 
         //create genesis transaction, which sends 100 NoobCoin to walletA:
         genesisTransaction = new Transaction(coinbase.publicKey, walletA.publicKey, 100f, null);
