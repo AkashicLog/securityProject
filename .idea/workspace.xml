@@ -2,48 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9260e5b1-a15a-4c94-8a9d-d53512cb95df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/gson-2.8.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/BlockChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/TransactionInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/TransactionOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Wallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Base58Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/JsonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/StringUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/Block.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/BlockChain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/BlockChain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/MerkleTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/MerkleTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/TXInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/TXOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/Transaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/UtfoStruts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/UtxoInfo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/entity/UtxoInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/service/BlockServices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/service/ProofOfWork.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/service/TransactionsPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/user/Wallet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/user/WalletStruts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/Base58.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/Base64Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/ECCCoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/FileUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/HexUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/MD5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/ObjectUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/SHA256.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/SignUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/WalletUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/mathUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/securityProject/util/tool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/securityProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/securityProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/META-INF/securityProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/model/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/securityProject/model/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/securityProject/model/BlockChain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/securityProject/model/BlockChain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,22 +31,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1chNHuLXgyrKbJXsW7yzLm82Iwt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/gson-2.8.6.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.5735632" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
@@ -109,32 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProofOfWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="service.ProofOfWork" />
-      <module name="securityProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SignUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.SignUtils" />
-      <module name="securityProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="client" />
       <module name="securityProject" />
@@ -145,23 +76,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.BlockChain" />
-        <item itemvalue="Application.ProofOfWork" />
-        <item itemvalue="Application.SignUtils" />
         <item itemvalue="Application.client" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -177,7 +94,6 @@
       <workItem from="1591004799763" duration="21000" />
       <workItem from="1591347271157" duration="10827000" />
       <workItem from="1591837852391" duration="5710000" />
-      <workItem from="1591853020571" duration="18333000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1591357992649</created>
@@ -197,10 +113,9 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
@@ -213,61 +128,49 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="563" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590977438157" />
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591864564081">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591864564081" />
     <state x="374" y="20" key="CommitChangelistDialog2" timestamp="1591358131474">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="374" y="20" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591358131474" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1591874537765">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1591353541758">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1591874537765" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1591871063005">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591353541758" />
+    <state width="1877" height="79" key="GridCell.Tab.0.bottom" timestamp="1591967165302">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591871063005" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1591875113945">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591357748108" />
+    <state width="1877" height="79" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591967165302" />
+    <state width="1877" height="79" key="GridCell.Tab.0.center" timestamp="1591967165302">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591875113945" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1591875113945">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591357748108" />
+    <state width="1877" height="79" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591967165302" />
+    <state width="1877" height="79" key="GridCell.Tab.0.left" timestamp="1591967165301">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591875113945" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1591875113945">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591357748108" />
+    <state width="1877" height="79" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591967165301" />
+    <state width="1877" height="79" key="GridCell.Tab.0.right" timestamp="1591967165302">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591875113945" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1591875113945">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591875113945" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591357748108" />
+    <state width="1877" height="79" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591967165302" />
     <state x="349" y="150" key="IDE.errors.dialog" timestamp="1591358107360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="150" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1591358107360" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1591871065826">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1591353561803">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591871065826" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591353561803" />
     <state x="361" y="136" key="Vcs.Push.Dialog.v2" timestamp="1591358143203">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="136" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591358143203" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1591874537765">
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1591004808448">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1591874537765" />
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1591853022451">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591853022451" />
-    <state x="178" y="28" key="new project wizard" timestamp="1591871593518">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="178" y="28" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591871593518" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591004808448" />
   </component>
 </project>
